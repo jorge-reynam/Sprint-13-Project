@@ -22,6 +22,28 @@ This project aims to predict gold recovery rates in an industrial process using 
 - Model training with cross-validation
 - Evaluation using sMAPE
 
+## Key Visualizations
+
+### 
+![Comparación de concentraciones por etapa](Images/Comparación_de_concentraciones_por_etapa.png)
+
+
+### 
+![Comparaciones](Images/Comparaciones.png)
+
+
+### 
+![Concentraciones](Images/Concentraciones.png)
+
+
+###
+![Distribuciones](Images/Distribuciones.png)
+
+
+###
+![Patrón temporarl de valoresa usentes](Images/Patrón_temporal_de_valores_ausentes.png)
+
+
 ## Models Used
 - Linear Regression (baseline)
 - Random Forest (final model)
